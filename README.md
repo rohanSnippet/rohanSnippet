@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h4>Programming Languages:</h4>
+
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/d701913e-4b06-4d92-8a36-d4470b6ce886" alt="java" width="100" height="100"/>
@@ -20,15 +20,19 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80"/>
   </a>&nbsp;&nbsp;&nbsp;
+   <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-logo-icon-download-in-svg-png-gif-file-formats--css-wordmark-programming-langugae-language-pack-logos-icons-1175238.png" alt="html5" width="80"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a><img src="https://github.com/user-attachments/assets/4de9867a-0e5d-4e4d-9e9b-364804632790" alt="js" width="70" height="70"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://media0.giphy.com/media/rp4930yjtZGwOjlpq0/200.gif?cid=6c09b952ysvhza8v5d245an2acl1pcfy1p634okvi9es85hi&ep=v1_gifs_search&rid=200.gif&ct=g" alt="php" width="110"/>
   </a>
-  
 </p>
 
-<h4>Frameworks:</h4>
+
+
+
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/cf39aae9-873b-4302-b441-3ebcc0edd46f" alt="Databay showcase gif" title="Databay showcase gif" width="110"/>
@@ -45,7 +49,7 @@
 </p>
 
 
-<h4>Databases:</h4>
+
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" />
@@ -61,7 +65,7 @@
   </a>
 </p>
 
-<h4>Other Tools:</h4>
+
 <p align="left">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80"/>
