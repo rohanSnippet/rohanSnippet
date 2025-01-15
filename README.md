@@ -9,7 +9,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/d701913e-4b06-4d92-8a36-d4470b6ce886" alt="java" width="100" height="100"/>
@@ -30,9 +29,6 @@
   </a>
 </p>
 
-
-
-
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/cf39aae9-873b-4302-b441-3ebcc0edd46f" alt="Databay showcase gif" title="Databay showcase gif" width="110"/>
@@ -48,10 +44,6 @@
   </a>
 </p>
 
-
-
-
-
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" />
@@ -66,10 +58,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="80"  />
   </a>
 </p>
-
-
-
-
 
 <p align="left">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
