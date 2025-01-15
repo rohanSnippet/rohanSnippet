@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at Github
 
-  ![Intro](https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif)
-
 
 
 <h3 align="left">Connect with me:</h3>
@@ -94,3 +92,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" />
   </a>
 </p>
+
+  <img src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" alt="My Work GIF" width="1000"/>
+
