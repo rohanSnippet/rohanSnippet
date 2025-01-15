@@ -1,15 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/user-attachments/assets/76681f4d-7db8-4eea-b2d5-e67893f63eed" alt="emoji" width="50" />, I'm Rohan</h1>
 
-- 🔭 I’m currently working on **a full stack project with React+Spring Boot**
-
-- 🌱 I’m currently learning **Python**
-
-- 🤝 I’m looking for help with **Spring OAuth2 login with a frontend**
-
-- 👨‍💻 All of my projects are available at Github
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/_nameisrohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_nameisrohan" height="40" width="50" /></a>&nbsp;&nbsp;&nbsp;
