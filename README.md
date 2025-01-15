@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A tech enthusiast from India</h3>
 
 - 🔭 I’m currently working on **a full stack project with React+Spring Boot**
 
