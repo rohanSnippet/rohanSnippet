@@ -28,7 +28,7 @@
     <img src="https://media0.giphy.com/media/rp4930yjtZGwOjlpq0/200.gif?cid=6c09b952ysvhza8v5d245an2acl1pcfy1p634okvi9es85hi&ep=v1_gifs_search&rid=200.gif&ct=g" alt="php" width="110"/>
   </a> -->
 </p>
-
+</br></br>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/cf39aae9-873b-4302-b441-3ebcc0edd46f" alt="Databay showcase gif" title="Databay showcase gif" width="90"/>
@@ -43,7 +43,8 @@
     <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="tailwind" width="80" />
   </a>
 </p>
-
+</br>
+</br>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" />
@@ -58,7 +59,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="80"  />
   </a> -->
 </p>
-
+</br>
+</br>
 <p align="left">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50"/>
@@ -82,6 +84,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" />
   </a>
 </p>
+</br>
+</br>
 
 
 
