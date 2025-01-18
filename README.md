@@ -46,10 +46,10 @@
 
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60"  />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80"  />
   </a>&nbsp;&nbsp;&nbsp;
  <!--  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80"  />
@@ -61,25 +61,25 @@
 
 <p align="left">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80"/>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60"/>
   </a>&nbsp;&nbsp;&nbsp;
    <a href="https://supabase.com/docs/guides/getting-started" target="_blank" rel="noreferrer">
-    <img src="https://pipedream.com/s.v0/app_1dBhP3/logo/96" alt="supabase" width="80"/>
+    <img src="https://pipedream.com/s.v0/app_1dBhP3/logo/96" alt="supabase" width="60"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" />
   </a>&nbsp;&nbsp;&nbsp;
  <!--  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80"/>
   </a>&nbsp;&nbsp;&nbsp; -->
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" />
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" />
   </a>&nbsp;&nbsp;&nbsp;
 <!--   <a href="https://appwrite.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="80"/>
   </a>&nbsp;&nbsp;&nbsp; -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" />
   </a>
 </p>
 
