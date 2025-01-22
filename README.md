@@ -65,7 +65,7 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50"/>
   </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://supabase.com/docs/guides/getting-started" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+   <a href="https://supabase.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://pipedream.com/s.v0/app_1dBhP3/logo/96" alt="supabase" width="50"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
