@@ -16,13 +16,13 @@
 <!--   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/64144696-e6fd-4107-9133-686dd7a91c73" alt="python" width="70" height="70"/>
   </a>&nbsp;&nbsp;&nbsp; -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60"/>
   </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
+   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-css3-logo-icon-download-in-svg-png-gif-file-formats--css-wordmark-programming-langugae-language-pack-logos-icons-1175238.png" alt="html5" width="60"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a><img src="https://github.com/user-attachments/assets/4de9867a-0e5d-4e4d-9e9b-364804632790" alt="js" width="50" height="50"/>
+  <a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/user-attachments/assets/4de9867a-0e5d-4e4d-9e9b-364804632790" alt="js" width="50" height="50"/>
   </a>&nbsp;&nbsp;&nbsp;
 <!--   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://media0.giphy.com/media/rp4930yjtZGwOjlpq0/200.gif?cid=6c09b952ysvhza8v5d245an2acl1pcfy1p634okvi9es85hi&ep=v1_gifs_search&rid=200.gif&ct=g" alt="php" width="110"/>
