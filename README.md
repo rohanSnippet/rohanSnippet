@@ -24,9 +24,6 @@
   </a>&nbsp;&nbsp;&nbsp;
   <a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/user-attachments/assets/4de9867a-0e5d-4e4d-9e9b-364804632790" alt="js" width="50" height="50"/>
   </a>&nbsp;&nbsp;&nbsp;
-<!--   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://media0.giphy.com/media/rp4930yjtZGwOjlpq0/200.gif?cid=6c09b952ysvhza8v5d245an2acl1pcfy1p634okvi9es85hi&ep=v1_gifs_search&rid=200.gif&ct=g" alt="php" width="110"/>
-  </a> -->
 </p>
 </br></br>
 <p align="left">
