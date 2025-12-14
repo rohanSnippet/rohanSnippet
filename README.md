@@ -3,7 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/_nameisrohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_nameisrohan" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/nameisrohan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nameisrohan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nameisrohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nameisrohan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" width="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/https://discord.gg/Fx4gCKsP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Fx4gCKsP" width="40" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
