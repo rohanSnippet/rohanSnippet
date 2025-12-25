@@ -4,7 +4,7 @@
 <p align="left">
   <a href="https://twitter.com/_nameisrohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_nameisrohan" width="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nameisrohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nameisrohan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/https://discord.gg/Fx4gCKsP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Fx4gCKsP" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  <!-- <a href="https://discord.gg/https://discord.gg/Fx4gCKsP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Fx4gCKsP" width="40" /></a> -->&nbsp;&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,9 +36,9 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+ <!--  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="tailwind" width="80" />
-  </a>
+  </a> -->
 </p>
 </br>
 </br>
